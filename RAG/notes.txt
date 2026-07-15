@@ -1,0 +1,9 @@
+Python is a programming language.
+
+FastAPI is used to build REST APIs.
+
+RAG stands for Retrieval Augmented Generation.
+
+FAISS is a vector database library.
+
+Embeddings convert text into vectors.
