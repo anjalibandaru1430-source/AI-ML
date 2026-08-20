@@ -1,6 +1,6 @@
 Python is a programming language.
 
-FastAPI is used to build REST APIs.
+FastAPI is used to build REST API.
 
 RAG stands for Retrieval Augmented Generation.
 
