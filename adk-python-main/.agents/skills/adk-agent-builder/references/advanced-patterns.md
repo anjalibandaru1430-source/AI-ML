@@ -1,4 +1,4 @@
-# Advanced Workflow Patterns Reference
+# Advanced Workflow Patterns References
 
 Nested workflows, dynamic nodes, retry configuration, custom node types, and graph construction.
 
